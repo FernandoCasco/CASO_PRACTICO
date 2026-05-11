@@ -1,4 +1,4 @@
-# Caso Práctico — Técnicas de Producción Industrial de Software
+# Caso Práctico — Técnicas de Producción Industrial de Software II
 
 ## Descripción
 Análisis de datos aplicado al dataset Prestige_modificado.csv en el contexto 
